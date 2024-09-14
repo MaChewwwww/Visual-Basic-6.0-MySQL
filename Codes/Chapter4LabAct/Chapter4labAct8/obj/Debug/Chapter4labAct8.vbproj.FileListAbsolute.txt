@@ -1,0 +1,11 @@
+C:\Users\paroc\source\repos\Chapter4LabAct\Chapter4labAct8\obj\Debug\Chapter4labAct8.Form1.resources
+C:\Users\paroc\source\repos\Chapter4LabAct\Chapter4labAct8\obj\Debug\Chapter4labAct8.Resources.resources
+C:\Users\paroc\source\repos\Chapter4LabAct\Chapter4labAct8\obj\Debug\Chapter4labAct8.vbproj.GenerateResource.cache
+C:\Users\paroc\source\repos\Chapter4LabAct\Chapter4labAct8\obj\Debug\Chapter4labAct8.vbproj.CoreCompileInputs.cache
+C:\Users\paroc\source\repos\Chapter4LabAct\Chapter4labAct8\bin\Debug\Chapter4labAct8.exe.config
+C:\Users\paroc\source\repos\Chapter4LabAct\Chapter4labAct8\bin\Debug\Chapter4labAct8.exe
+C:\Users\paroc\source\repos\Chapter4LabAct\Chapter4labAct8\bin\Debug\Chapter4labAct8.pdb
+C:\Users\paroc\source\repos\Chapter4LabAct\Chapter4labAct8\bin\Debug\Chapter4labAct8.xml
+C:\Users\paroc\source\repos\Chapter4LabAct\Chapter4labAct8\obj\Debug\Chapter4labAct8.exe
+C:\Users\paroc\source\repos\Chapter4LabAct\Chapter4labAct8\obj\Debug\Chapter4labAct8.xml
+C:\Users\paroc\source\repos\Chapter4LabAct\Chapter4labAct8\obj\Debug\Chapter4labAct8.pdb

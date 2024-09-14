@@ -1,0 +1,17 @@
+C:\Users\paroc\source\repos\Example2\obj\Debug\net6.0-windows\Example2.vbproj.AssemblyReference.cache
+C:\Users\paroc\source\repos\Example2\obj\Debug\net6.0-windows\Example2.Form1.resources
+C:\Users\paroc\source\repos\Example2\obj\Debug\net6.0-windows\Example2.vbproj.GenerateResource.cache
+C:\Users\paroc\source\repos\Example2\obj\Debug\net6.0-windows\Example2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paroc\source\repos\Example2\obj\Debug\net6.0-windows\Example2.AssemblyInfoInputs.cache
+C:\Users\paroc\source\repos\Example2\obj\Debug\net6.0-windows\Example2.AssemblyInfo.vb
+C:\Users\paroc\source\repos\Example2\obj\Debug\net6.0-windows\Example2.vbproj.CoreCompileInputs.cache
+C:\Users\paroc\source\repos\Example2\bin\Debug\net6.0-windows\Example2.exe
+C:\Users\paroc\source\repos\Example2\bin\Debug\net6.0-windows\Example2.deps.json
+C:\Users\paroc\source\repos\Example2\bin\Debug\net6.0-windows\Example2.runtimeconfig.json
+C:\Users\paroc\source\repos\Example2\bin\Debug\net6.0-windows\Example2.dll
+C:\Users\paroc\source\repos\Example2\bin\Debug\net6.0-windows\Example2.pdb
+C:\Users\paroc\source\repos\Example2\obj\Debug\net6.0-windows\Example2.dll
+C:\Users\paroc\source\repos\Example2\obj\Debug\net6.0-windows\refint\Example2.dll
+C:\Users\paroc\source\repos\Example2\obj\Debug\net6.0-windows\Example2.pdb
+C:\Users\paroc\source\repos\Example2\obj\Debug\net6.0-windows\Example2.genruntimeconfig.cache
+C:\Users\paroc\source\repos\Example2\obj\Debug\net6.0-windows\ref\Example2.dll

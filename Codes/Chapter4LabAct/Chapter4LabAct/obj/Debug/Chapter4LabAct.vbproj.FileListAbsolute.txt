@@ -1,0 +1,12 @@
+C:\Users\paroc\source\repos\Chapter4LabAct\Chapter4LabAct\bin\Debug\Chapter4LabAct.exe.config
+C:\Users\paroc\source\repos\Chapter4LabAct\Chapter4LabAct\bin\Debug\Chapter4LabAct.exe
+C:\Users\paroc\source\repos\Chapter4LabAct\Chapter4LabAct\bin\Debug\Chapter4LabAct.pdb
+C:\Users\paroc\source\repos\Chapter4LabAct\Chapter4LabAct\bin\Debug\Chapter4LabAct.xml
+C:\Users\paroc\source\repos\Chapter4LabAct\Chapter4LabAct\obj\Debug\Chapter4LabAct.vbproj.AssemblyReference.cache
+C:\Users\paroc\source\repos\Chapter4LabAct\Chapter4LabAct\obj\Debug\Chapter4LabAct.Form1.resources
+C:\Users\paroc\source\repos\Chapter4LabAct\Chapter4LabAct\obj\Debug\Chapter4LabAct.Resources.resources
+C:\Users\paroc\source\repos\Chapter4LabAct\Chapter4LabAct\obj\Debug\Chapter4LabAct.vbproj.GenerateResource.cache
+C:\Users\paroc\source\repos\Chapter4LabAct\Chapter4LabAct\obj\Debug\Chapter4LabAct.vbproj.CoreCompileInputs.cache
+C:\Users\paroc\source\repos\Chapter4LabAct\Chapter4LabAct\obj\Debug\Chapter4LabAct.exe
+C:\Users\paroc\source\repos\Chapter4LabAct\Chapter4LabAct\obj\Debug\Chapter4LabAct.xml
+C:\Users\paroc\source\repos\Chapter4LabAct\Chapter4LabAct\obj\Debug\Chapter4LabAct.pdb

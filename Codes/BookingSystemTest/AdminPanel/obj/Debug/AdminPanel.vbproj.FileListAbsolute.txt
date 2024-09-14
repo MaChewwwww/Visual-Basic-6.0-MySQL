@@ -1,0 +1,4 @@
+C:\Users\paroc\source\repos\BookingSystemTest\AdminPanel\obj\Debug\AdminPanel.AdminPanel.resources
+C:\Users\paroc\source\repos\BookingSystemTest\AdminPanel\obj\Debug\AdminPanel.Resources.resources
+C:\Users\paroc\source\repos\BookingSystemTest\AdminPanel\obj\Debug\AdminPanel.vbproj.GenerateResource.cache
+C:\Users\paroc\source\repos\BookingSystemTest\AdminPanel\obj\Debug\AdminPanel.vbproj.CoreCompileInputs.cache

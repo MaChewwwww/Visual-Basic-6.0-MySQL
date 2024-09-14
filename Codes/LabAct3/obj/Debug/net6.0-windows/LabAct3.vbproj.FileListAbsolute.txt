@@ -1,0 +1,17 @@
+C:\Users\paroc\source\repos\LabAct3\bin\Debug\net6.0-windows\LabAct3.exe
+C:\Users\paroc\source\repos\LabAct3\bin\Debug\net6.0-windows\LabAct3.deps.json
+C:\Users\paroc\source\repos\LabAct3\bin\Debug\net6.0-windows\LabAct3.runtimeconfig.json
+C:\Users\paroc\source\repos\LabAct3\bin\Debug\net6.0-windows\LabAct3.dll
+C:\Users\paroc\source\repos\LabAct3\bin\Debug\net6.0-windows\LabAct3.pdb
+C:\Users\paroc\source\repos\LabAct3\obj\Debug\net6.0-windows\LabAct3.vbproj.AssemblyReference.cache
+C:\Users\paroc\source\repos\LabAct3\obj\Debug\net6.0-windows\LabAct3.Form1.resources
+C:\Users\paroc\source\repos\LabAct3\obj\Debug\net6.0-windows\LabAct3.vbproj.GenerateResource.cache
+C:\Users\paroc\source\repos\LabAct3\obj\Debug\net6.0-windows\LabAct3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paroc\source\repos\LabAct3\obj\Debug\net6.0-windows\LabAct3.AssemblyInfoInputs.cache
+C:\Users\paroc\source\repos\LabAct3\obj\Debug\net6.0-windows\LabAct3.AssemblyInfo.vb
+C:\Users\paroc\source\repos\LabAct3\obj\Debug\net6.0-windows\LabAct3.vbproj.CoreCompileInputs.cache
+C:\Users\paroc\source\repos\LabAct3\obj\Debug\net6.0-windows\LabAct3.dll
+C:\Users\paroc\source\repos\LabAct3\obj\Debug\net6.0-windows\refint\LabAct3.dll
+C:\Users\paroc\source\repos\LabAct3\obj\Debug\net6.0-windows\LabAct3.pdb
+C:\Users\paroc\source\repos\LabAct3\obj\Debug\net6.0-windows\LabAct3.genruntimeconfig.cache
+C:\Users\paroc\source\repos\LabAct3\obj\Debug\net6.0-windows\ref\LabAct3.dll

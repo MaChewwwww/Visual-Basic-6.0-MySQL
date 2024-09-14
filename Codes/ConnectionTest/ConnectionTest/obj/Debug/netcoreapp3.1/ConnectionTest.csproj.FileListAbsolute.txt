@@ -1,0 +1,7 @@
+C:\Users\paroc\source\repos\ConnectionTest\ConnectionTest\obj\Debug\netcoreapp3.1\ConnectionTest.csproj.AssemblyReference.cache
+C:\Users\paroc\source\repos\ConnectionTest\ConnectionTest\obj\Debug\netcoreapp3.1\ConnectionTest.Form1.resources
+C:\Users\paroc\source\repos\ConnectionTest\ConnectionTest\obj\Debug\netcoreapp3.1\ConnectionTest.csproj.GenerateResource.cache
+C:\Users\paroc\source\repos\ConnectionTest\ConnectionTest\obj\Debug\netcoreapp3.1\ConnectionTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paroc\source\repos\ConnectionTest\ConnectionTest\obj\Debug\netcoreapp3.1\ConnectionTest.AssemblyInfoInputs.cache
+C:\Users\paroc\source\repos\ConnectionTest\ConnectionTest\obj\Debug\netcoreapp3.1\ConnectionTest.AssemblyInfo.cs
+C:\Users\paroc\source\repos\ConnectionTest\ConnectionTest\obj\Debug\netcoreapp3.1\ConnectionTest.csproj.CoreCompileInputs.cache

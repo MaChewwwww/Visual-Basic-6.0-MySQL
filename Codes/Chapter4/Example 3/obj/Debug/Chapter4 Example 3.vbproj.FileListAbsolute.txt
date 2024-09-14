@@ -1,0 +1,11 @@
+C:\Users\paroc\source\repos\Chapter4\Example 3\bin\Debug\Example 3.exe.config
+C:\Users\paroc\source\repos\Chapter4\Example 3\bin\Debug\Example 3.exe
+C:\Users\paroc\source\repos\Chapter4\Example 3\bin\Debug\Example 3.pdb
+C:\Users\paroc\source\repos\Chapter4\Example 3\bin\Debug\Example 3.xml
+C:\Users\paroc\source\repos\Chapter4\Example 3\obj\Debug\Example_3.Grade.resources
+C:\Users\paroc\source\repos\Chapter4\Example 3\obj\Debug\Example_3.Resources.resources
+C:\Users\paroc\source\repos\Chapter4\Example 3\obj\Debug\Chapter4 Example 3.vbproj.GenerateResource.cache
+C:\Users\paroc\source\repos\Chapter4\Example 3\obj\Debug\Chapter4 Example 3.vbproj.CoreCompileInputs.cache
+C:\Users\paroc\source\repos\Chapter4\Example 3\obj\Debug\Example 3.exe
+C:\Users\paroc\source\repos\Chapter4\Example 3\obj\Debug\Example 3.xml
+C:\Users\paroc\source\repos\Chapter4\Example 3\obj\Debug\Example 3.pdb

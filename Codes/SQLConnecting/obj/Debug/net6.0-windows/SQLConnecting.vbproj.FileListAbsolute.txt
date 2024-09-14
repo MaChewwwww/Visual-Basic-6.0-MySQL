@@ -1,0 +1,7 @@
+C:\Users\paroc\source\repos\SQLConnecting\obj\Debug\net6.0-windows\SQLConnecting.vbproj.AssemblyReference.cache
+C:\Users\paroc\source\repos\SQLConnecting\obj\Debug\net6.0-windows\SQLConnecting.btnAddProduct.resources
+C:\Users\paroc\source\repos\SQLConnecting\obj\Debug\net6.0-windows\SQLConnecting.vbproj.GenerateResource.cache
+C:\Users\paroc\source\repos\SQLConnecting\obj\Debug\net6.0-windows\SQLConnecting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paroc\source\repos\SQLConnecting\obj\Debug\net6.0-windows\SQLConnecting.AssemblyInfoInputs.cache
+C:\Users\paroc\source\repos\SQLConnecting\obj\Debug\net6.0-windows\SQLConnecting.AssemblyInfo.vb
+C:\Users\paroc\source\repos\SQLConnecting\obj\Debug\net6.0-windows\SQLConnecting.vbproj.CoreCompileInputs.cache

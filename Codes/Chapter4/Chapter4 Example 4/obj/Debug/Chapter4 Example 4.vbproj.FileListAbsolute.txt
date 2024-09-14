@@ -1,0 +1,11 @@
+C:\Users\paroc\source\repos\Chapter4\Chapter4 Example 4\obj\Debug\Chapter4_Example_4.Form1.resources
+C:\Users\paroc\source\repos\Chapter4\Chapter4 Example 4\obj\Debug\Chapter4_Example_4.Resources.resources
+C:\Users\paroc\source\repos\Chapter4\Chapter4 Example 4\obj\Debug\Chapter4 Example 4.vbproj.GenerateResource.cache
+C:\Users\paroc\source\repos\Chapter4\Chapter4 Example 4\obj\Debug\Chapter4 Example 4.vbproj.CoreCompileInputs.cache
+C:\Users\paroc\source\repos\Chapter4\Chapter4 Example 4\bin\Debug\Chapter4 Example 4.exe.config
+C:\Users\paroc\source\repos\Chapter4\Chapter4 Example 4\bin\Debug\Chapter4 Example 4.exe
+C:\Users\paroc\source\repos\Chapter4\Chapter4 Example 4\bin\Debug\Chapter4 Example 4.pdb
+C:\Users\paroc\source\repos\Chapter4\Chapter4 Example 4\bin\Debug\Chapter4 Example 4.xml
+C:\Users\paroc\source\repos\Chapter4\Chapter4 Example 4\obj\Debug\Chapter4 Example 4.exe
+C:\Users\paroc\source\repos\Chapter4\Chapter4 Example 4\obj\Debug\Chapter4 Example 4.xml
+C:\Users\paroc\source\repos\Chapter4\Chapter4 Example 4\obj\Debug\Chapter4 Example 4.pdb
